@@ -1,3 +1,3 @@
 # hello-world
 
-1 test: It works good so far :)
+1st test: It works good so far :)
